@@ -54,3 +54,4 @@ By running this in Colab, even users without powerful local GPUs can explore the
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e1a4aaf3-2d2a-4bac-8e2b-5375adffe0c7)
